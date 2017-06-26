@@ -1,5 +1,5 @@
 # Huff-and-Puff
-a Program that transfer a text file into compressed file by using Huffman Algorithm that achieves a lossless data compression.
+A Program that transfer a text file into compressed file by using Huffman Algorithm that achieves a lossless data compression.
 
 The algorithm implemented here accepts a single command line
 argument that should be a filename of the form name.txt, where the
